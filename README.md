@@ -1,6 +1,6 @@
 # WESHO
 
-![Uploading cropped-image (4).png…]()
+![ic.png](./ic.png)
 
 
 ## We + Shop
