@@ -1,5 +1,8 @@
 # WESHO
 
+![Uploading cropped-image (4).png…]()
+
+
 ## We + Shop
 
 ### Fast Commerce for the Next Billion Consumers
