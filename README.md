@@ -1,6 +1,6 @@
 # WESHO
 
-![ic.png](./ic.png)
+<img src="./ic.png" alt="ic.png" width="100" height="100">
 
 
 ## We + Shop
